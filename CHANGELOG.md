@@ -1,6 +1,6 @@
 # chapi-demo-verifier Changelog
 
-## 1.1.0 - TBD
+## 1.1.0 - 2022-04-01
 
 ### Changed
 - Make `MEDIATOR` configurable.
