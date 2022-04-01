@@ -1,8 +1,8 @@
 # chapi-demo-verifier Changelog
 
-## 1.1.1 - TBD
+## 1.1.1 - 2022-04-01
 
-### Changed
+### Fixed
 - Add missing `config.js`.
 
 ## 1.1.0 - 2022-04-01
