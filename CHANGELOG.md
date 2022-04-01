@@ -1,5 +1,10 @@
 # chapi-demo-verifier Changelog
 
+## 1.2.0 - TBD
+
+### Changed
+- Make `WALLET_HOST` configurable.
+
 ## 1.1.1 - 2022-04-01
 
 ### Fixed
