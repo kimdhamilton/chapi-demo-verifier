@@ -1,6 +1,6 @@
 # chapi-demo-verifier Changelog
 
-## 1.3.0 - TBD
+## 1.3.0 - 2022-04-01
 
 ### Added
 - Add `.htaccess` file to enable CORS.
