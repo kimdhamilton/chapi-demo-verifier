@@ -1,5 +1,10 @@
 # chapi-demo-verifier Changelog
 
+## 2.1.0 - 2023-03-10
+
+### Added
+- Add `protocols` usage example in get request.
+
 ## 2.0.2 - 2022-11-17
 
 ### Changed
