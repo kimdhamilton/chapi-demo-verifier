@@ -1,6 +1,6 @@
 # chapi-demo-verifier Changelog
 
-## 2.2.0 - 2023-03-dd
+## 2.2.0 - 2023-03-14
 
 ### Added
 - Add `vcapi` protocol example.
