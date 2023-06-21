@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>Minimal Demo Verifier</title>
+  <title>Sign in</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!--Import Google Icon Font-->
@@ -20,8 +20,7 @@
 
   <div class="container">
     <div class="card-panel">
-      <h5>Credential Handler API (CHAPI) Demo Verifier</h5>
-      <p><a href="https://github.com/credential-handler/credential-handler-polyfill">Read more about CHAPI</a></p>
+      <h5>Sign in with Verifiable Credentials</h5>
       <p>
         If you have not yet picked a wallet and registered it with your browser,
         try out the
@@ -59,7 +58,7 @@
                 "https://w3id.org/credentials/v1",
                 "https://www.w3.org/2018/credentials/examples/v1"
               ],
-              type: ["UniversityDegreeCredential"],
+              type: ["EmailCredential"],
               credentialSubject: {
                 "id": "did:example:ebfeb1f712ebc6f1c276e12ec21"
               }

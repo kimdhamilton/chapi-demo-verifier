@@ -1,4 +1,8 @@
 {
   "name": "Demo Verifier",
-  "short_name": "Demo Verifier"
+  "short_name": "Demo Verifier",
+  "credential_handler": {
+    "url": "/index.html",
+    "enabledTypes": ["VerifiablePresentation"]
+  }
 }
